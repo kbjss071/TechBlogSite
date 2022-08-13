@@ -1,0 +1,7 @@
+:root {
+    --secondBg: #abd27b;
+}
+
+.blog-title {
+    background: var(--secondBg);
+}

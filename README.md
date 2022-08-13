@@ -2,7 +2,7 @@
 
 ## Link to the deployed application
 
-## To-do list
+## Usage
 - Homepage (before sign up or log in)
     - exisiting blog posts if any have been posted
     - navigation links for the homepage and the dashboard (homepage should take users to homepage and other links should take users to sign up or log in)
@@ -23,8 +23,6 @@
     - When user clicks on one of my exisiting posts in the dashboard, the user is able to delete or update their post and taken back to an updated dashboard.
     - When user clicks on the logout option in the navigation, the user is signed out of the site.
     - When user is idle on the site for more than a set time, the user is able to view comments but the user is prompted to log in again before the user add, update, or delete comments.
-
-## Usage
 
 
 ## Contribution

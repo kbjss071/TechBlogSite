@@ -26,16 +26,10 @@ Post.init(
       content: {
         type: DataTypes.STRING,
       },
-      comment_id: {
-        type: DataTypes.INTEGER,
-        references: {
-            model: "comment",
-            key: "id"
-        }
-      },
       date: {
         type: DataTypes.DATEONLY,
-        allowNull: true
+        allowNull: true,
+        defaultValue: DataTypes.NOW,
       }
     },
     {
